@@ -155,7 +155,7 @@ const ChatBot = () => {
         className="flex flex-col items-center cursor-pointer"
         onClick={toggleChat}
       >
-        <h3 className="text-lg font-semibold text-blue-600 mb-2">Let's Talk</h3>
+        <h3 className="text-lg font-semibold text-blue-600 mb-2">Let&apos;s Talk</h3>
         <Image
           src="/ai.avif" // Replace with your robot image path
           alt="ChatBot"

@@ -74,7 +74,7 @@ const AdminDashboard = () => {
       {/* Centered Heading and Welcome Message */}
       <div className="text-center">
         <h1 className="text-3xl font-bold text-gray-800">Admin Dashboard</h1>
-        <p className="mt-2 text-gray-600">Welcome, Admin! Here's your business overview.</p>
+        <p className="mt-2 text-gray-600">Welcome, Admin! Here&apos;s your business overview.</p>
       </div>
 
       {/* Quick Stats */}
